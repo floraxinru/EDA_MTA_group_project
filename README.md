@@ -1,6 +1,6 @@
 # Project1Final
 
-Project 1: MTA Turnstile Data
+Project 1: EDA on MTA Turnstile Data
 
 ### Background
 WomenTechWomenYes(WTWY) reached out to Metis in NYC. They are interested in "harnessing the power of data and analytics to optimize the effectiveness of our street team work, which is a significant portion of our fundraising efforts." Excerpt from their letter:
@@ -10,7 +10,7 @@ WomenTechWomenYes(WTWY) reached out to Metis in NYC. They are interested in "har
 The task is to use freely available MTA subway data from the city to help WTWY optimize the placement of street teams, to gather the most signatures, ideally from those who will attend the gala and contribute to the cause.
 
 ### Objectives
-Analyze MTA data to:
+Perform Exploratory Data Analysis (EDA) on MTA data to:
 
 * Find stations with the highest weekly traffic in May and June 2019
 * Identify stations most likely to attract people who are:
@@ -40,12 +40,12 @@ Further Work
 Scraping geographical data of tech companies, algorithmically compare top stations based on how many tech companies and universities are within a set radius to each
 
 ### Division of Tasks
-- data collection 
-- data cleaning 
+- data collection (f, d)
+- data cleaning (l)
 - visualization 
-  - seaborn visualization 
-  - geopandas 
-- GitHub repo setup and maintenance 
-- presentation slides 
-- project design, outline 
-- organizational/logistics/"project manager" role 
+  - seaborn visualization (f)
+  - geopandas (d)
+- GitHub repo setup and maintenance (f, d)
+- presentation slides (f)
+- project design, outline (all)
+- organizational/logistics/"project manager" role (f)
