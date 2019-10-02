@@ -36,8 +36,12 @@ Matplotlib, Seaborn, GeoPandas
 GitHub
 
 ### Results
-Further Work
-Scraping geographical data of tech companies, algorithmically compare top stations based on how many tech companies and universities are within a set radius to each
+
+Based on results of our analysis as well as domain knowledge of NYC, we recommended 15 stations in Manhattan with highest volumne of traffic. Among those, our top 3 recommendations are stations with universities clustered around them. We visualized these results using Seaborn and Geopandas.
+
+### Further Work
+
+Scraping geographical data of tech companies, algorithmically compare top stations based on how many tech companies and universities are within a set radius to each.
 
 ### Division of Tasks
 - data collection (f, d)
